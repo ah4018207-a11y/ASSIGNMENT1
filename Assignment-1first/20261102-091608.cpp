@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 int friends,totalbill,eachpay;
-court<<"enter total friends";
+cout<<"enter total friends";
 cin>>friends ;
 cout<<"enter total bill";
 cin>>totalbill;
