@@ -4,7 +4,7 @@ int main(){
 int friends,totalbill,eachpay;
 court<<"enter total friends";
 cin>>friends ;
-court<<"enter total bill";
+cout<<"enter total bill";
 cin>>totalbill;
 eachpay=totalbill/friends;
 court<<eachpay;
